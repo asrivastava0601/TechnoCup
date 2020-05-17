@@ -7,3 +7,8 @@ Dataset description:
 Link to dataset: www.kaggle.com/dataset/817623fa4e95bab3dc6456c382dca0761993e695045777346a462240faaa6241
 
 Main Task: Classify images to the labels and help the hypothetical bank to predict house hold income.
+
+Update 
+To view the colab file TechnoPulse_Solution.ipynb if github has problem in display:
+  - Open https://nbviewer.jupyter.org/
+  - Paste url: https://github.com/asrivastava0601/TechnoPulse_Competition/blob/master/TechnoPulse_Solution.ipynb
